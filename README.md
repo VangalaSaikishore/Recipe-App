@@ -106,4 +106,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 Remember to replace placeholders such as `your-username`, `your-project`, and update any additional information according to your project's needs. This comprehensive document provides a complete set of instructions and commands for managing your React project using Vite.
 
-## I HOPE USERS WILL ENJOY WHILE USING THESE APP THANK YOU!!!.........   ###VANGALA SAIKISHORE
+## I hope users will enjoy while using this app!!!!!   ##Vangala Saikishore
