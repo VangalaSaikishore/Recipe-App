@@ -3,9 +3,12 @@
 Welcome to Recipe App project! This project was bootstrapped using Vite, a fast build tool for modern web development.
 
 i> The Recipe App is a web application that allows users to browse, search, and view different recipes.
+
 ii> Users can see a list of recipes, click on a recipe to view its details, and search for specific recipes by keywords. 
+
 iii> Here it will give you complete information regarding preparation time, ingredients, steps to prepare the recipe, nutrition of the particular recipe.
-iii> The app is built using React.js for the user interface and Vite.js for fast development and bundling.
+
+iv> The app is built using React.js for the user interface and Vite.js for fast development and bundling.
 
 
 ## Getting Started
